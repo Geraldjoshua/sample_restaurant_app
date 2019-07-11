@@ -1,1 +1,1 @@
-# sample_restaurant_app build in angular, falcon and sql alchemy to represent the database
+sample_restaurant_app built in angular, falcon and sql alchemy to represent the database
